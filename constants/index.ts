@@ -18,32 +18,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
+    title: 'Offline maps available',
     icon: '/map.svg',
     variant: 'green',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'Our application provides offline maps for hiking, climbing, or camping, allowing you to navigate even when there\'s no signal at your location.',
   },
   {
-    title: 'Set an adventure schedule',
+    title: 'Adventure scheduling',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      'Plan adventures with friends easily. Import multiple schedules to find the best time for everyone. Take advantage of Hilink\'s many interesting holiday packages.',
   },
   {
-    title: 'Technology using augment reality',
+    title: 'Augmented reality technology',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'Our technology uses augmented reality to guide you on hiking trails from the forest to the mountain peak. No internet connection required.',
   },
   {
-    title: 'Many new locations every month',
+    title: 'New locations added monthly',
     icon: '/location.svg',
     variant: 'orange',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'We add numerous new locations every month, thanks to our worldwide community of hikers and climbers sharing their best experiences.',
   },
 ];
 
@@ -62,7 +62,7 @@ export const FOOTER_LINKS = [
   },
   {
     title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+    links: ['Climbing community', 'Hiking with Hilink', 'Hilink camping'],
   },
 ];
 
